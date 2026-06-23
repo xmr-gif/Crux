@@ -2,6 +2,8 @@
 
 Crux is a transcript compression engine for AI agents. It takes messy YouTube videos or podcast transcripts, strips out the filler words and false starts, and packages the core meaning into a dense JSON/Markdown file designed to drop straight into an LLM context window.
 
+![Crux](Crux.png)
+
 ---
 
 ## Quick start
